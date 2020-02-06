@@ -1,0 +1,6 @@
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\bin\Debug\Apprentissage.exe.config
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\bin\Debug\Apprentissage.exe
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\bin\Debug\Apprentissage.pdb
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\obj\Debug\Apprentissage.csprojResolveAssemblyReference.cache
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\obj\Debug\Apprentissage.exe
+c:\users\romeo.banga\documents\visual studio 2015\Projects\Apprentissage\Apprentissage\obj\Debug\Apprentissage.pdb
